@@ -1,0 +1,14 @@
+{
+  "name": "liquid-sort",
+  "version": "1.0.0",
+  "description": "Solver for the liquid sorting puzzle gaeme",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/cli.js sample.json",
+    "start:custom": "node src/cli.js",
+    "test": "node src/cli.js sample.json"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
